@@ -1,0 +1,6 @@
+{
+  "name": "MAGI-2 Video Review",
+  "description": "Executive review showcase for 12 MAGI-2 1080p video model test generations across 5 niches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
